@@ -42,7 +42,9 @@ If you're feeling up to it, refactor the course RESTapi to make a request to you
 Prevent requests without valid authentication headers.
 > !!NOTE if you choose to submit this, make sure to add the token to the postman collection and export the postman collection file to your submission so we can review!
 
-### Custom Domain Name
+### Endpoint URL link
 
-Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
+### Imagefilterstartercode-env.eba-8knmac4g.us-east-1.elasticbeanstalk.com
+
+### http://imagefilterstartercode-env.eba-8knmac4g.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://media.istockphoto.com/photos/ibibo-calabar-akwa-ibom-culturally-dressed-man-doing-fist-pump-picture-id1385666920?b=1&k=20&m=1385666920&s=170667a&w=0&h=-tVmzMEzHrngT_KHGbrCQYAoHShBsWEl-BnI57J6hLM=
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
